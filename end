@@ -1,0 +1,37 @@
+[33mcommit 2c597500a3373cfa906adb47e08c77ae55f7154e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Emanuel Almeida <76492615+emanuelundb@users.noreply.github.com>
+Date:   Tue Dec 22 18:05:18 2020 -0300
+
+    Atualizado
+    
+    Delete e Inscrição
+
+[33mcommit 6562eb5b354dcde66d85873954d960fc50e717ee[m
+Author: Agostinho Jardim Matos Junior <agostinho.matos@DBOSCO.COM.BR>
+Date:   Wed Dec 16 11:35:47 2020 -0300
+
+    comando migrate
+
+[33mcommit 3a0a4a70741b95553968e1606f32811379f8c568[m
+Author: Agostinho Jardim Matos Junior <agostinho.matos@DBOSCO.COM.BR>
+Date:   Wed Dec 16 11:32:13 2020 -0300
+
+    serializers e requisições
+
+[33mcommit 318fcc7cedb2eaadc7649814d21a790893dc6e91[m
+Author: Agostinho Jardim Matos Junior <agostinho.matos@DBOSCO.COM.BR>
+Date:   Wed Dec 16 09:44:48 2020 -0300
+
+    install pip requirements
+
+[33mcommit 10fe65f3f5e0441441b10b16affd417bd42c77c7[m
+Author: Agostinho Jardim Matos Junior <agostinho.matos@DBOSCO.COM.BR>
+Date:   Wed Dec 16 09:42:56 2020 -0300
+
+    requirements to pip install
+
+[33mcommit 7fd8af1fa69bd9079a1186af0491a9aad66c69b1[m
+Author: Agostinho Jardim Matos Junior <agostinho.matos@DBOSCO.COM.BR>
+Date:   Wed Dec 16 09:40:16 2020 -0300
+
+    init commit
